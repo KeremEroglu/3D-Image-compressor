@@ -1,0 +1,16 @@
+{
+    "general":
+
+    {
+        "Normal photo": "../photos/colored/couch_rgb.png",
+        "Depth photo" : "../photos/depth/couch_rgb.png",
+        "Focal point" : [1070,40,250]
+    },
+
+    "distance":
+
+    {
+        "dist x": 1,
+        "dist z": 8
+    }
+}
